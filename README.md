@@ -4,4 +4,4 @@
 
 ![indicator1d](./indicator1d_100.png)
 
-The paper: D. Yarotsky, Corner Gradient Descent, arXiv:TODO
+The paper: D. Yarotsky, Corner Gradient Descent, [arXiv:2504.12519](https://arxiv.org/abs/2504.12519)
